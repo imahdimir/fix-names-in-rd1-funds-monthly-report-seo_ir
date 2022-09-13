@@ -1,6 +1,5 @@
 {
-  "selff": "https://github.com/imahdimir/u-d-FirmTicker-actual-trade-spells",
-  "src0": "https://github.com/imahdimir/d-FirmTicker-status-change",
-  "src1": "https://github.com/imahdimir/d-FirmTicker-possible-trade-spells",
-  "trg": "https://github.com/imahdimir/d-FirmTicker-actual-trade-spells"
+  "selff": "https://github.com/imahdimir/fix-names-in-rd1-funds-monthly-report-seo_ir",
+  "src": "https://github.com/imahdimir/rd1-funds-monthly-report-seo_ir",
+  "trg": "https://github.com/imahdimir/rd1-funds-monthly-report-seo_ir"
 }

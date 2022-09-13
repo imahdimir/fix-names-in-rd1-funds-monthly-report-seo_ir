@@ -1,3 +1,7 @@
 # python 3.10.5
 # MacOS X 12.5
 # Apple M1
+
+
+pandas~=1.4.4
+githubdata~=8.2
